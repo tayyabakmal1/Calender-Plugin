@@ -1,0 +1,11 @@
+{
+  "id": "platform/calendar",
+  "name": "Calendar",
+  "namespace": "Platform\\Plugins\\Calendar\\",
+  "provider": "Platform\\Plugins\\Calendar\\Providers\\CalendarServiceProvider",
+  "author": "Tayyab Akmal",
+  "url": "https://www.linkedin.com/in/tayyab-sqa-engineer/",
+  "version": "1.0.0",
+  "description": "Manage tasks efficiently with features like adding, editing, deleting, and repeating tasks, plus automated reminders.",
+  "minimum_core_version": "7.3.0"
+} 
